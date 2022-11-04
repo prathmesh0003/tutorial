@@ -1,0 +1,5 @@
+git init --> to make repositry here
+touch <file name> --->>>> for making new file
+git status --> to check status
+git add <filename> ----> to convert file from untracked to unmodified
+git add . --------> to add all files in folder
