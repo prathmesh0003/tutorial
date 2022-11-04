@@ -3,3 +3,7 @@ touch <file name> --->>>> for making new file
 git status --> to check status
 git add <filename> ----> to convert file from untracked to unmodified
 git add . --------> to add all files in folder
+git commit -m '#commit message to be printed'
+git config --global user.name  ---> adding name
+git config --global user.email  ------> adding mail id 
+git config --global user.username ---->
